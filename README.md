@@ -63,7 +63,44 @@ Turing's prediction of a 30% chance of a machine passing the Turing Test by 2000
 **Reinforcement Learning**, as the agent can learn from its environment through trial and error. Reinforcement learning models are also very suited for adapting.
 
 ## Q4
-Write your answer to question 4 here ....
+
+**1. Exploring the Subsurface of Arabian Sea:**
+
+- **Performance:** Gather data about the environment, navigate safely, avoid obstacles and dangers.
+- **Environment:** Deep underwater
+- **Actuators:** Movement controls (thrusters, direction), manipulator arms (sample collection)
+- **Sensors:** Sonar (mapping environment), cameras (limited visibility imaging).
+
+
+**2. Playing a Tennis Match:**
+
+- **Performance:** Return opponent's serves, hit winning shots, follow game rules.
+- **Environment:** Tennis court.
+- **Actuators:** Swinging racket, footwork, strategic movements.
+- **Sensors:** Vision (ball trajectory, opponent's position, etc.)
+
+**3. Practicing Tennis Against a Wall:**
+
+- **Performance:** Improve tennis skills, practice specific shots.
+- **Environment:** Tennis court
+- **Actuators:** Swinging racket, footwork, strategic movements.
+- **Sensors:** Vision (ball trajectory, impact with wall).
+
+**4. Performing a High Jump:**
+
+- **Performance:** Jump over a bar at the highest possible height.
+- **Environment:** Athletic track.
+- **Actuators:** Running, jumping, coordinated muscle movements.
+- **Sensors:** Vision.
+
+
+**5. Bidding on an Item at an Auction:**
+
+- **Performance:** Win the desired item at the lowest possible price.
+- **Environment:** Auction platform, auctioneer, time constraints.
+- **Actuators:** Placing bids, monitoring other bids, making strategic decisions.
+- **Sensors:** Visual, auditory.
+  
 ## Q5
 Write your answer to question 5 here ....
 
