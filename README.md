@@ -49,7 +49,19 @@ Turing's prediction of a 30% chance of a machine passing the Turing Test by 2000
 - **Explanation:** AI translation in real time has gotten very accurate for more popular languages like Chinese, but not with Urdu.
   
 ## Q3
-Write your answer to question 3 here ....
+
+**Domain:** Minecraft 
+
+
+- **Partial Accessibility:** While the agent can perceive the game world through observations (blocks, items, entities), some information might not be immediately accessible (e.g., player inventory, hostile or peaceful mobs).
+- **Not Deterministic Gameplay:** Given the same starting state and actions, the environment will always change depending on the current action. (e.g crafting tools, making a base for shelter)
+- **Episodic Nature:** Each game session can be considered a separate episode with a defined goal (e.g., survive for X nights, defeat the Ender Dragon).
+- **Partially Static World:** The overall game world layout remains static (same number of biomes), but the agent's local environment changes dynamically as it interacts (e.g., breaking blocks, placing items).
+- **Continuous State and Action:** The agent's state space (e.g., position, health, inventory) and action space (movement, interaction) are both continuous.
+
+**Best Architecture:**
+**Reinforcement Learning**, as the agent can learn from its environment through trial and error. Reinforcement learning models are also very suited for adapting.
+
 ## Q4
 Write your answer to question 4 here ....
 ## Q5
