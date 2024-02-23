@@ -22,7 +22,32 @@
 Turing's prediction of a 30% chance of a machine passing the Turing Test by 2000 was overly optimistic. Significant progress in AI has been made, but achieving human-level conversational ability and general intelligence remains difficult.
 
 ## Q2
-Write your answer to question 2 here ....
+
+**1. Driving in the centre of Karachi:**
+
+- **Possible:** No
+- **Explanation:** Self-driving cars struggle with complex, unpredictable environments like Karachi si currently not possible.
+
+**2. Discovering and proving new mathematical theorems:**
+
+- **Possible:** Yes, but not fully
+- **Explanation:** AI can discover and prove some theorems, but the AI most of the time relies on human intervention for some guidance.
+
+**3. Writing an intentionally funny story:**
+
+- **Possible:** Yes
+- **Explanation:** AI can now generate creative and humorous text with the help of new language learning models(LLM)
+
+**4. Giving competent legal advice in a specialized area of law:**
+
+- **Possible:** No
+- **Explanation:** AI can assist lawyers with research and analysis. However, it cant pass judgment.
+
+**5. Translating spoken English into spoken Urdu in real time:**
+
+- **Possible:** Yes, but not fully
+- **Explanation:** AI translation in real time has gotten very accurate for more popular languages like Chinese, but not with Urdu.
+  
 ## Q3
 Write your answer to question 3 here ....
 ## Q4
