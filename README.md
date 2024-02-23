@@ -102,5 +102,25 @@ Turing's prediction of a 30% chance of a machine passing the Turing Test by 2000
 - **Sensors:** Visual, auditory.
   
 ## Q5
-Write your answer to question 5 here ....
+
+**1. False:**
+
+While an agent with partial information might not be able to achieve **perfect** rationality, it can still make **rational** decisions based on the information it has access to.
+
+**2. True:**
+
+Imagine a complex traffic intersection with unpredictable elements such as jaywalkers or sudden vehicle breakdowns. A pure reflex agent programmed to respond only to an immediate sensor reading (such as a red light) can make dangerous decisions in these dynamic situations, emphasizing the need for more sophisticated reasoning skills.
+
+**3. False:**
+
+Reason is subjective and depends on the task, environment and evaluation criteria. An agent considered rational in one context may not be so in another context.
+
+**4. False:**
+
+The Agent Program is a complete system that includes agent functionality, performance measurement and sensors/actuators. The Agent function itself receives as input only an observation of the environment.
+
+**5. False:**
+
+Not all agent functions are necessarily implementable. Complex functions requiring vast computational resources or violating physical laws might be impossible to realize with current technology.
+
 
